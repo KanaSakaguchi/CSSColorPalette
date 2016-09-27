@@ -13,3 +13,6 @@ hs_err_pid*
 
 # 共有しないIntelliJの設定ファイル
 .idea/workspace.xml
+
+# 実行ファイル出力先
+out/*
