@@ -1,0 +1,2 @@
+# CSSColorPalette
+cssで使っている色をリストアップするPhpStormなどのプラグイン
