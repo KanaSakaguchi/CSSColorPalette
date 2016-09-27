@@ -27,6 +27,7 @@
 
   <actions>
     <!-- Add your actions here -->
+    <action class="DirectoryAddAction" id="directoryAdd" />
   </actions>
 
 </idea-plugin>
